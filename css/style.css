@@ -1,3 +1,17 @@
 #addTrainLabel {
     background-color: #0193CF;
 }
+#main_container {
+    background: white;
+    height: 100vh;
+}
+#title {
+    background-color: rgb(0, 85, 165, .7);
+    color: white;
+}
+body{
+    background-image: url(train.jpg);
+    background-size: cover; /* or contain depending on what you want */
+    background-position: center center;
+    background-repeat: no-repeat;
+}
